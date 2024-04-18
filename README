@@ -1,0 +1,13 @@
+Repository for APS360 taken 2022 Winter Semester at University of Toronto
+
+lab1 (26.5/30):
+    1c: -0.5: you need to call word_lengths 5a: -1.5 5b: -1.5 we're looking for evidence of the results of changing all hyperparameters You didnt have colab sharing on and submitted pdf was trimmed.
+
+lab2 (48.5 / 55):
+    part 2.d [-1.5]: Which network took longer to train? Why?
+    Part 2.f [-4]: for Small_net, there is an underfitting problem since the training curve decreases and remains almost flat (with relatively high error) regardless of increase in num of epochs. for Large_net, there is an overfitting since training error is decreasing but validation error is increasing.
+    part 5.e [-1]: Why is it important that we use the test data as little as possible?
+
+lab3, lab4, lab5 full marks
+
+My notes from slides: https://frankcyh.notion.site/APS360-84175f99c45d44fd901ef309f7e4a0d6
